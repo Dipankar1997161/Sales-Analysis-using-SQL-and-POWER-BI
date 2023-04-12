@@ -16,4 +16,4 @@ Analysis was done using PosegreSQL tool with 5 sets of data
 ![CUSTOMER SALES_page-0001(1)](https://user-images.githubusercontent.com/85514219/231563295-3c0ab935-c0e1-4fc6-abe5-261fcb511b1e.jpg)
 
 ### Analysis
-Analysis was done using Pandas and PosegreSQL
+Analysis was done using Pandas and Python
