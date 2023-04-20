@@ -2,7 +2,7 @@
 
 This repo uses PowerBI and Posegresql to perform sales analysis and dashboard generation.
 
-## 1. Sales analysis of a Local Goods Store
+## 1. Revenue Analysis of a Hotel
 
 ### Dashboard
 ![hotel review analysis pbi and sql_page-0001](https://user-images.githubusercontent.com/85514219/231563155-8ec5166b-2b9c-4c69-bf93-78b2a4772cad.jpg)
@@ -10,7 +10,7 @@ This repo uses PowerBI and Posegresql to perform sales analysis and dashboard ge
 ### Analysis
 Analysis was done using PosegreSQL tool with 5 sets of data
 
-## 2. Revenue Analysis of a Hotel
+## 2. Sales analysis of a Local Goods Store
 
 ### Dashboard
 ![CUSTOMER SALES_page-0001(1)](https://user-images.githubusercontent.com/85514219/231563295-3c0ab935-c0e1-4fc6-abe5-261fcb511b1e.jpg)
